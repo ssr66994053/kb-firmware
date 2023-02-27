@@ -1,0 +1,9 @@
+{
+    "keyboard_name": "split58",
+    "manufacturer": "UnsayingRiver2",
+    "usb": {
+        "pid": "0x0002",
+        "vid": "0x0003",
+        "device_version": "0.1.0"
+    }
+}
