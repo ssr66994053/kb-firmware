@@ -9,3 +9,5 @@
 #define MATRIX_COL_PINS {D4, C6, D7, E6, B4, B5}
 
 #define SOFT_SERIAL_PIN D2
+
+#define FORCE_NKRO // 默认开启全键无冲
